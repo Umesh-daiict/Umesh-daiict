@@ -5,10 +5,10 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/umeshsavaliya?label=Follow)](https://twitter.com/S_U_N_007)
+[![Linkedin: anmol](https://img.shields.io/badge/-sun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-savaliya/)]([https://www.linkedin.com/in/anmol098/](https://www.linkedin.com/in/umesh-savaliya/))
+![GitHub followers](https://img.shields.io/github/followers/Umesh-daiict?label=Follow&style=social)
+<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
@@ -74,17 +74,12 @@ const Umesh = {
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
-<!--
-**Umesh-daiict/Umesh-daiict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Portifolio & Lives-Shades
+- 🌱 I’m currently learning Node JS(advance)
+- 👯 I’m looking to collaborate on Typescript Projects
+- 🤔 I’m looking for help with Lives-Shades
+- 💬 Ask me about Web Dev, Design
+- 📫 How to reach me: umeshsavaliya007@gmail.com
+- ⚡ Fun fact: Many owners of large tech companies loved video games as kids
