@@ -57,7 +57,7 @@ const Umesh = {
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: JS
+💬 Programming Languages: TS
 
 🔥 Editors: VS Code
 
