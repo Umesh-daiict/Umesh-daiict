@@ -22,7 +22,7 @@ const Umesh = {
     askMeAbout: ["web dev", "tech", "Design"],
     technologies: {
         backEnd: {
-            js: ["React JS", "Anguler"],
+            js: ["React JS", "Anguler", "Django"],
         },
         frontEnd: {
             js: ["Node JS", "Express"]
